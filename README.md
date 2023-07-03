@@ -1,1 +1,3 @@
-# -Yolov3_Assited_Human_detection_and_email_automation-
+Requirements:
+Python 3.9 +  
+YoloV3
